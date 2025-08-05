@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=flat&logo=burp-suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white"/>
 </p>
 
@@ -37,5 +38,3 @@
 
 ---
 
-### 💬 Quote
-> _"Think like a hacker. Act like a protector."_ — Hamethius

@@ -20,7 +20,7 @@
 
 ### 🛠️ Skills & Tools
 <div align="left">
-  <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
